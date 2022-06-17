@@ -1,10 +1,31 @@
-h1 {
-  color: rgb(95, 237, 44);
-  font-family: "Dosis", sans-serif;
+.hero {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
   text-align: center;
-  font-size: 80px;
+  color: #3f3e41;
+  font-family: "Raleway", sans-serif;
 }
-.fa-bacon {
-  font-size: 60px;
-  color: pink;
+
+p {
+  font-size: 36px;
+  line-height: 54px;
+  font-weight: 400;
+  margin-top: 90px;
+}
+h1 {
+  font-size: 70px;
+  line-height: 128px;
+  font-weight: 600;
+}
+h3 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 400;
+  margin-top: 24px;
+}
+.btn-branding {
+  padding: 18px 26px;
+  margin-bottom: 180px;
+  margin-top: 30px;
+  border-radius: 4px;
+  font-weight: 600;
 }
