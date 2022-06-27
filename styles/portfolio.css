@@ -37,15 +37,15 @@ h3 {
   line-height: 27px;
 }
 h2 {
-  font-size: 45px;
-
+  font-size: 38px;
+  font-weight: 500;
   font-family: "Raleway", sans-serif;
 }
 p {
   font-size: 20px;
   font-family: "Raleway", sans-serif;
 }
-.swimming-paragraph {
+.telling-paragraph {
   font-size: 16px;
   font-family: "Raleway", sans-serif;
   line-height: 30px;
@@ -63,4 +63,19 @@ p {
   h1 {
     font-size: 50px;
   }
+}
+
+.about-me-paragraph {
+  font-size: 16px;
+  font-family: "Raleway", sans-serif;
+  line-height: 30px;
+}
+
+h3 {
+  margin: 2;
+  font-size: 16px;
+}
+
+img {
+  border-radius: 7px;
 }
