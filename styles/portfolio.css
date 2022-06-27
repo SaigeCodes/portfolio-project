@@ -37,10 +37,13 @@ h3 {
   line-height: 27px;
 }
 h2 {
-  font-size: 38px;
-  font-weight: 500;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 54px;
   font-family: "Raleway", sans-serif;
+  margin-top: 90px;
 }
+
 p {
   font-size: 20px;
   font-family: "Raleway", sans-serif;
